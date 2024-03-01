@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="185" viewBox="0 0 135 185">
+  <defs>
+    <clipPath id="clip-FS_Icon_Organge">
+      <rect width="135" height="185"/>
+    </clipPath>
+  </defs>
+  <g id="FS_Icon_Organge" data-name="FS Icon Organge" clip-path="url(#clip-FS_Icon_Organge)">
+    <g id="Group_521" transform="translate(-194.628 -387.6)">
+      <path id="Path_510" d="M269.3,496.9c0-16-.6-31.4.2-46.6.8-16.1,9.7-27.6,23.7-35,5.6-2.9,11.7-5,18.1-7.7,0,17.1,1,33.5-.3,49.6-1.2,14.8-10.4,25.4-23.5,32.1C281.7,492.2,275.6,494.2,269.3,496.9Z" fill="#e05317"/>
+      <path id="Path_511" d="M211.9,465.2c6.8,2.9,13,4.9,18.7,7.9,14.1,7.5,22.8,19.1,23.6,35.2.7,14.7.1,29.5.1,44.2-19.9-.2-42.5-23-42.4-45.7Z" fill="#e05317"/>
+      <path id="Path_512" d="M253.9,467.5c-28.5-8.7-45-22-41.9-58.6C243.3,415.1,258.2,435.4,253.9,467.5Z" fill="#e05317"/>
+      <path id="Path_513" d="M269.8,552.6c-3.9-30.5,8.8-48.1,41.2-57.1C314.2,525.3,297.2,548.9,269.8,552.6Z" fill="#e05317"/>
+    </g>
+  </g>
+</svg>

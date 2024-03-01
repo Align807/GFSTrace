@@ -1,0 +1,96 @@
+footer {
+    background-color: rgb(222, 222, 222);
+    border-color: rgb(222, 222, 222);
+    font-size: 1.1em;
+     letter-spacing: .05em;
+    font-weight: 400;
+   
+}
+.ui.selection.dropdown{
+    background-color: #dcdcdc!important;
+}
+.ui.dropdown .menu{
+    background-color: #dcdcdc!important;
+}
+.footer-main{
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ui.selection.active.dropdown .menu{
+    border-color: #a4aaad!important;
+}
+.ui.selection.dropdown:focus{
+    border-color: #a4aaad!important;
+}
+.ui.selection.active.dropdown{
+    border-color: #a4aaad!important;
+}
+.footer-contents {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    bottom:0;
+    width:100%;
+    height: 30px;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0!important;
+    -ms-flex: 0 1 auto!important;
+    flex: 0 1 auto!important;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 6px 16px;
+    
+   clear: both;
+    position: bottom;
+    height: 40px;
+    margin-top: -0px;
+    
+}
+a.footer-button{
+    color: rgb(0 0 0 / 54%);
+}
+.footer-button {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 4px;
+    border: none;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+   
+     
+}
+.footer-button-icon.button-size-small {
+    height: 28px;
+    width: 28px;
+  }
+  .footer-icon {
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      color: inherit;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
+      -webkit-box-pack: inherit;
+      -ms-flex-pack: inherit;
+      justify-content: inherit;
+      line-height: normal;
+      position: relative;
+      -webkit-transition: inherit;
+      transition: inherit;
+      -webkit-transition-property: opacity;
+      transition-property: opacity;
+  }
+  

@@ -1,0 +1,17 @@
+.des{
+    color:grey;
+    background: #dcdcdc;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.destxt{
+    outline: none;
+    border-width: 0px;
+    box-sizing: inherit;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: inherit;
+    text-align: left;
+}

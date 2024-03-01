@@ -1,0 +1,28 @@
+
+  
+  .structure-sidemenu{
+    grid-row: 1/4;
+    grid-column: 1/2;
+    position: sticky;
+  }
+  .site-layout-background{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    
+  }
+  .ant-layout-sider-trigger {
+    height: 56px;
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+    [data-theme="dark"] .site-layout .site-layout-background {
+      background: #141414;
+    }
+  
+  .sub-menu{
+    position: sticky;
+    left: auto;
+  }

@@ -1,0 +1,38 @@
+{
+    "navbar": {
+      "dashboard": "Dashboard",
+      "custom_reports": "Custom Reports",
+      "jobs": "Jobs",
+      "activities": "Activities",
+      "activity_reports": "Activity Reports",
+      "spray_logs": "Spray Logs",
+      "planting": "Planting",
+      "spreading": "Spreading",
+      "harvest": "Harvest",
+      "maintainance": "Maintainance",
+      "irrigation": "Irrigation",
+      "grazing": "Grazing",
+      "inventory": "Inventory",
+      "inventory_reports": "Inventory Reports",
+      "grain": "Grain",
+      "chemical": "Chemical",
+      "fertilizer": "Fertilizer",
+      "fuel": "Fuel",
+      "water": "Water",
+      "personal": "Personal",
+      "timesheet": "Timesheet",
+      "farm_assets": "Farms Assets",
+      "farms": "Farms",
+      "rain": "Rain",
+      "cultivars": "Cultivars",
+      "livestock": "Livestock",
+      "equipments": "Equipments",
+      "chemicals": "Chemicals",
+      "fertilizers": "Fertilizers",
+      "users": "Users",
+      "nozzles": "Nozzles",
+      "water_licences": "Water Licences",
+      "calender": "Calendar"
+    }
+  }
+  

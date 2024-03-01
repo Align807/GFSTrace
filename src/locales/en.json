@@ -1,0 +1,116 @@
+{
+  "header": {
+    "logout": " Logout"
+  },
+  "activities": {
+    "status": "Status",
+    "approved": "Approved",
+    "description": "Description",
+    "livestock": "Livestock",
+    "scheduleddate": "Scheduled Date",
+    "started": "Started",
+    "completed": "Completed ",
+    "contract": "Contract",
+    "category": "Category ",
+    "duedate": "Due Date",
+    "product": "Product"
+  },
+  "grazing": {
+    "heading": "Grazing"
+  },
+  "general": {
+    "showcompleted": "Show Completed"
+  },
+  "materialtable": {
+    "searchtooltip": "Search",
+    "searchplaceholder": "Search",
+    "headeractions": "Actions",
+    "bodydeletetooltip": "Delete",
+    "edittooltip": "Edit",
+    "emptydatasourcemessage": "No records to display",
+    "deletetext": "Are you sure you want to delete?",
+    "editrowcanceltip": "Cancel",
+    "editrowsavetooltip": "Save",
+    "feltertooltip": "Filter",
+    "previoustooltip": "Previous Page",
+    "nexttooltip": "Next Page",
+    "labelrowselect": "rows",
+    "bodyaddtooltip": "Add"
+  },
+  "harvest": {
+    "heading": "Harvest"
+  },
+  "irrigation": {
+    "heading": "Irrigation"
+  },
+  "maintainance": {
+    "heading": "Paddock Maintainance"
+  },
+  "planting": {
+    "heading": "Planting"
+  },
+  "spraylogs": {
+    "heading": "Spray Logs"
+  },
+  "spreading": {
+    "heading": "Spreading"
+  },
+  "vettreatment": {
+    "heading": "Vet Treatment"
+  },
+  "jobs": {
+    "status": "Status",
+    "raised": "Raised",
+    "raisedandassigned": "Raised And Assigned",
+    "inprogress": "In Progress",
+    "onhold": "On Hold",
+    "completed": "Completed",
+    "priority": "Priority",
+    "low": "Low",
+    "normal": "Normal",
+    "high": "High",
+    "safety": "Safety",
+    "description": "Description",
+    "category": "Category",
+    "asset": "Asset",
+    "duedate": "Due Date",
+    "lastupdate": "Last Update",
+    "heading": "Jobs"
+  },
+  "navbar": {
+    "dashboard": "Dashboard",
+    "custom_reports": "Custom Reports",
+    "jobs": "Jobs",
+    "activities": "Activities",
+    "activity_reports": "Activity Reports",
+    "spray_logs": "Spray Logs",
+    "planting": "Planting",
+    "spreading": "Spreading",
+    "harvest": "Harvest",
+    "maintainance": "Maintenance",
+    "irrigation": "Irrigation",
+    "grazing": "Grazing",
+    "vettreatment": "Vet Treatments",
+    "inventory": "Inventory",
+    "inventory_reports": "Inventory Reports",
+    "grain": "Grain",
+    "chemical": "Chemical",
+    "fertilizer": "Fertilizer",
+    "fuel": "Fuel",
+    "water": "Water",
+    "personal": "Personal",
+    "timesheet": "Timesheet",
+    "farmassets": "Farm Assets",
+    "farms": "Farms",
+    "rain": "Rain",
+    "cultivars": "Cultivars",
+    "livestock": "Livestock",
+    "equipments": "Equipments",
+    "chemicals": "Chemicals",
+    "fertilizers": "Fertilizers",
+    "users": "Users",
+    "nozzles": "Nozzles",
+    "water_licences": "Water Licences",
+    "calender": "Calendar"
+  }
+}

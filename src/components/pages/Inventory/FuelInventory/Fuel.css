@@ -1,0 +1,7 @@
+.fuel{
+    position: static;
+}
+.progress{
+   height: 20px;
+    background-color: rgb(155, 153, 153); 
+}

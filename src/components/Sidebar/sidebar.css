@@ -1,0 +1,16 @@
+.side-menu{
+    position: sticky;
+    top:0
+  }
+  .logo { 
+   height: 58px;
+   color: white;
+  
+  }
+  .Cname {
+    padding: 25px 45px;
+    font-family: Roboto, sans-serif;
+    font-size: 13px;
+    color: white;
+    white-space: nowrap;
+  }

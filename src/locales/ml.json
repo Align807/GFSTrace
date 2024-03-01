@@ -1,0 +1,120 @@
+{
+  "header": {
+    "logout": " ലോഗ്ഔട്ട് "
+  },
+  "jobs": {
+    "status": "നില",
+    "raised": "ഉയർത്തി",
+    "raisedandassigned": "ഉയർത്തി ചുമതലപ്പെടുത്തി",
+    "inprogress": "പുരോഗതിയിൽ",
+    "onhold": "ഹോൾഡ് ചെയ്തിരിക്കുന്നു",
+    "completed": "പൂർത്തിയാക്കി",
+    "priority": "മുൻഗണന",
+    "low": "താഴ്ന്നത്",
+    "normal": "സാധാരണ",
+    "high": "ഉയർന്ന",
+    "safety": "സുരക്ഷ",
+    "description": "വിവരണം",
+    "category": "വിഭാഗം",
+    "asset": "ആസ്തി",
+    "duedate": "അവസാന തീയതി",
+    "lastupdate": "അവസാന പരിഷ്കാരം",
+    "heading": "ജോലികൾ"
+  },
+  "activities": {
+    "status": "നില",
+    "contract": "കരാർ",
+    "approved": "അംഗീകരിച്ചു",
+    "category": "വിഭാഗം ",
+    "livestock": "കന്നുകാലികൾ",
+    "description": "വിവരണം",
+    "duedate": "അവസാന തീയതി",
+    "started": "തുടങ്ങി",
+    "scheduleddate": "ഷെഡ്യൂൾ ചെയ്ത തീയതി",
+    "completed": "പൂർത്തിയാക്കി ",
+    "product": "ഉൽപ്പന്നം"
+  },
+  "general": {
+    "showcompleted": "പൂർത്തിയായത് കാണിക്കുക"
+  },
+  "irrigation": {
+    "heading": "ജലസേചനം"
+  },
+  "maintainance": {
+    "heading": "പാടശേഖരം പരിപാലിക്കൽ"
+  },
+  "spraylogs": {
+  
+    "heading": "സ്പ്രേ ലോഗുകൾ"
+  },
+  "grazing": {
+    "heading": "മേച്ചിൽ"
+  },
+  "spreading": {
+    "heading": "പരത്തുന്നു"
+  },
+  "planting": {
+    "heading": "നടീൽ"
+  },
+  "harvest": {
+    "heading": "വിളവെടുപ്പ്"
+  },
+  "vettreatment": {
+    "heading": "മൃഗ ചികിത്സ"
+  },
+
+
+  
+  "materialtable": {
+    "searchtooltip": "തിരയുക",
+    "searchplaceholder": "തിരയുക",
+    "bodyaddtooltip": "ചേർക്കുക",
+    "bodydeletetooltip": "ഇല്ലാതാക്കുക",
+    "headeractions": "പ്രവർത്തനങ്ങൾ",
+    "emptydatasourcemessage": "പ്രദർശിപ്പിക്കാൻ രേഖകളൊന്നുമില്ല",
+    "deletetext": "നിങ്ങൾ തീർച്ചയായും ഇല്ലാതാക്കാൻ ആഗ്രഹിക്കുന്നുവോ?",
+    "edittooltip": "തിരുത്തുക",
+    "editrowcanceltip": "റദ്ദാക്കുക",
+    "editrowsavetooltip": "സംരക്ഷിക്കുക",
+    "feltertooltip": "ഫിൽട്ടർ",
+    "previoustooltip": "മുൻപത്തെ പേജ്",
+    "nexttooltip": "അടുത്ത പേജ്",
+    "labelrowselect": "വരികൾ"
+  },
+  "navbar": {
+    "dashboard": "ഡാഷ്ബോർഡ്",
+    "custom_reports": "കസ്റ്റം റിപ്പോർട്ടുകൾ",
+    "jobs": "ജോലികൾ",
+    "activities": "പ്രവർത്തനങ്ങൾ",
+    "activity_reports": "പ്രവർത്തന റിപ്പോർട്ടുകൾ",
+    "spray_logs": "സ്പ്രേ ലോഗുകൾ",
+    "planting": "നടീൽ",
+    "spreading": "പടർത്തൽ",
+    "harvest": "വിളവെടുപ്പ്",
+    "maintainance": "പരിപാലനം",
+    "irrigation": "ജലസേചനം",
+    "grazing": "മേച്ചിൽ",
+    "vettreatment": "മൃഗ ചികിത്സകൾ",
+    "inventory": "ഇൻവെന്ററി",
+    "inventory_reports": " ഇൻവെന്ററി റിപ്പോർട്ടുകൾ",
+    "grain": "ധാന്യം",
+    "chemical": "രാസവസ്തു",
+    "fertilizer": "വളം",
+    "fuel": "ഇന്ധനം",
+    "water": "വെള്ളം",
+    "personal": "വ്യക്തിപരമായ",
+    "timesheet": "ടൈംഷീറ്റ്",
+    "farmassets": "കാർഷിക ആസ്തികൾ",
+    "farms": "കൃഷിയിടങ്ങൾ",
+    "rain": "മഴ",
+    "cultivars": "കൃഷികൾ",
+    "livestock": "കന്നുകാലികൾ",
+    "equipments": "ഉപകരണങ്ങൾ",
+    "chemicals": "രാസവസ്തുക്കൾ",
+    "fertilizers": "വളങ്ങൾ",
+    "users": "ഉപയോക്താക്കൾ",
+    "nozzles": "നോസിലുകൾ",
+    "water_licences": "ജല ലൈസൻസുകൾ",
+    "calender": "കലണ്ടർ"
+  }
+}
